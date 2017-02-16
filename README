@@ -5,6 +5,8 @@ Efficient Graph-Based Image Segmentation
 Pedro F. Felzenszwalb and Daniel P. Huttenlocher
 International Journal of Computer Vision, 59(2) September 2004.
 
+[Source of the original commit](http://cs.brown.edu/~pff/segment/)
+
 The program takes a color image (PPM format) and produces a segmentation
 with a random color assigned to each region.
 
